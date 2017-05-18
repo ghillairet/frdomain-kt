@@ -1,0 +1,1 @@
+Code samples from book `Functional and Reactive Domain Modeling` written in Kotlin.
